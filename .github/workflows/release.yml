@@ -13,7 +13,7 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: github.repository == 'ngrok-oss/gen-x'
+    if: github.repository == 'ngrok-oss/remark-mdx-no-paragraph-wrap'
     steps:
       - uses: actions/create-github-app-token@v2
         id: generate-token
