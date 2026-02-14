@@ -3,7 +3,7 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "ngrok-oss/gen-x"
+      "repo": "ngrok-oss/remark-mdx-no-paragraph-wrap"
     }
   ],
   "commit": false,
